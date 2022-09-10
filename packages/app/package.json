@@ -1,0 +1,20 @@
+{
+  "version": "0.0.0",
+  "name": "app",
+  "main": "index.ts",
+  "dependencies": {
+    "@react-navigation/bottom-tabs": "^6.3.1",
+    "@react-navigation/native": "^6.0.8",
+    "@react-navigation/native-stack": "^6.5.0",
+    "expo-linking": "^3.0.0",
+    "lottie-react": "^2.3.1",
+    "lottie-react-native": "^5.1.4",
+    "moti": "canary",
+    "native-base": "^3.3.7",
+    "react-native-fs": "^2.20.0",
+    "react-native-svg": "^12.1.1",
+    "react-native-web": "^0.17.7",
+    "solito": "0.0.22"
+  },
+  "sideEffects": false
+}
