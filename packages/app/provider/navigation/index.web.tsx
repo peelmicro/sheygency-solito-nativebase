@@ -12,8 +12,6 @@ import {
   HStack,
   VStack,
   Link,
-  Center,
-  Flex,
   Pressable,
   useBreakpointValue,
 } from 'native-base'
