@@ -29,6 +29,7 @@ export default function useCachedResources() {
         'montserrat-thin-italic': require('../assets/fonts/Montserrat-ThinItalic.ttf'),
       })
     } catch (e) {
+      console.log('Error rearing the Fonts')
       console.warn(e)
     } finally {
       setIsLoadingComplete(true)
